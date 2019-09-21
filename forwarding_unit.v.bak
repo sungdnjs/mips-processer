@@ -1,0 +1,34 @@
+module forwarding_unit(
+					input	[4:0] rsD, rtD, rsE, rtE,
+					input [4:0] writeregM, writeregW,
+					input regwriteM, regwriteW,
+					output           forwardaD, forwardbD,
+					output reg [1:0] forwardaE, forwardbE);
+				  
+
+  // forwarding sources to D stage (branch equality)
+  assign forwardaD = ;
+  assign forwardbD = ;
+
+  // forwarding sources to E stage (ALU)
+  always @(*)
+    begin
+	//Initialize forwardaE,forwardbE
+      forwardaE = ; 
+	  forwardbE = ;
+	  
+	  //change the value of forwardaE,forwardbE depending on rsE, rtE
+      if (rsE != 0)
+        if (	) 
+				forwardaE = ;
+        else if (	)
+				forwardaE = ;
+      if (rsE != 0)
+        if (	) 
+				forwardbE = ;
+        else if (	) 
+				forwardbE = ;
+    end
+
+
+endmodule

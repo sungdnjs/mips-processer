@@ -1,0 +1,243 @@
+# Reading C:/altera/12.1sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do mipscomputer_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\12.1sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\12.1sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/adder.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module adder
+# 
+# Top level modules:
+# 	adder
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/alu.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/aludec.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module aludec
+# 
+# Top level modules:
+# 	aludec
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/controller.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module controller
+# 
+# Top level modules:
+# 	controller
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/datapath.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module datapath
+# 
+# Top level modules:
+# 	datapath
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/eqcmp.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module eqcmp
+# 
+# Top level modules:
+# 	eqcmp
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/flopenr.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module flopenr
+# 
+# Top level modules:
+# 	flopenr
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/flopenrc.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module flopenrc
+# 
+# Top level modules:
+# 	flopenrc
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/flopr.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module flopr
+# 
+# Top level modules:
+# 	flopr
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/floprc.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module floprc
+# 
+# Top level modules:
+# 	floprc
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/forwarding_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module forwarding_unit
+# 
+# Top level modules:
+# 	forwarding_unit
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/hazard_detection_unit.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module hazard_detection_unit
+# 
+# Top level modules:
+# 	hazard_detection_unit
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/maindec.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module maindec
+# 
+# Top level modules:
+# 	maindec
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/mips.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module mips
+# 
+# Top level modules:
+# 	mips
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/mipscomputer.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module mipscomputer
+# 
+# Top level modules:
+# 	mipscomputer
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/mux2.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module mux2
+# 
+# Top level modules:
+# 	mux2
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/mux3.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module mux3
+# 
+# Top level modules:
+# 	mux3
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/regfile.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module regfile
+# 
+# Top level modules:
+# 	regfile
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/signext.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module signext
+# 
+# Top level modules:
+# 	signext
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/sl2.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module sl2
+# 
+# Top level modules:
+# 	sl2
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/dmem.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module dmem
+# 
+# Top level modules:
+# 	dmem
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/imem.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module imem
+# 
+# Top level modules:
+# 	imem
+# 
+# vlog -vlog01compat -work work +incdir+C:/altera/12.1sp1/quartus/3-1cdproject3 {C:/altera/12.1sp1/quartus/3-1cdproject3/tb_mipscomputer.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module tb_mipscomputer
+# 
+# Top level modules:
+# 	tb_mipscomputer
+do C:/altera/12.1sp1/quartus/3-1cdproject3/simulation/modelsim/wave.do
+# onerror {resume}
+# quietly WaveActivateNextPane {} 0
+# add wave -noupdate /tb_mipscomputer/clk
+# add wave -noupdate /tb_mipscomputer/reset
+# add wave -noupdate /tb_mipscomputer/memwrite
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/imem_a
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/imem_rd
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/dmem_a
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/dmem_rd
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/dmem_wd
+# add wave -noupdate -expand -group instr -color {Medium Orchid} -radix hexadecimal /tb_mipscomputer/dut/mips/instrF
+# add wave -noupdate -expand -group instr -color {Medium Orchid} -radix hexadecimal /tb_mipscomputer/dut/mips/dp/r2D/q
+# add wave -noupdate -expand -group fd -color {Medium Sea Green} /tb_mipscomputer/dut/mips/dp/fd_unit/forwardaE
+# add wave -noupdate -expand -group fd -color {Medium Sea Green} /tb_mipscomputer/dut/mips/dp/fd_unit/forwardbE
+# add wave -noupdate -expand -group fd -color {Medium Sea Green} /tb_mipscomputer/dut/mips/dp/fd_unit/forwardaD
+# add wave -noupdate -expand -group fd -color {Medium Sea Green} /tb_mipscomputer/dut/mips/dp/fd_unit/forwardbD
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[19]}
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[18]}
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[17]}
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[16]}
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[8]}
+# TreeUpdate [SetDefaultTree]
+# WaveRestoreCursors {{Cursor 1} {65090 ps} 0}
+# quietly wave cursor active 1
+# configure wave -namecolwidth 116
+# configure wave -valuecolwidth 100
+# configure wave -justifyvalue left
+# configure wave -signalnamewidth 1
+# configure wave -snapdistance 10
+# configure wave -datasetprefix 0
+# configure wave -rowmargin 4
+# configure wave -childrowmargin 2
+# configure wave -gridoffset 0
+# configure wave -gridperiod 1
+# configure wave -griddelta 40
+# configure wave -timeline 0
+# configure wave -timelineunits ns
+# update
+# WaveRestoreZoom {0 ps} {163994 ps}
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs="+acc"  tb_mipscomputer
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps tb_mipscomputer 
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+do C:/altera/12.1sp1/quartus/3-1cdproject3/simulation/modelsim/wave.do
+# onerror {resume}
+# quietly WaveActivateNextPane {} 0
+# add wave -noupdate /tb_mipscomputer/clk
+# add wave -noupdate /tb_mipscomputer/reset
+# add wave -noupdate /tb_mipscomputer/memwrite
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/imem_a
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/imem_rd
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/dmem_a
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/dmem_rd
+# add wave -noupdate -group mem -color Salmon -radix hexadecimal /tb_mipscomputer/dmem_wd
+# add wave -noupdate -expand -group instr -color {Medium Orchid} -radix hexadecimal /tb_mipscomputer/dut/mips/instrF
+# add wave -noupdate -expand -group instr -color {Medium Orchid} -radix hexadecimal /tb_mipscomputer/dut/mips/dp/r2D/q
+# add wave -noupdate -expand -group fd -color {Medium Sea Green} /tb_mipscomputer/dut/mips/dp/fd_unit/forwardaE
+# add wave -noupdate -expand -group fd -color {Medium Sea Green} /tb_mipscomputer/dut/mips/dp/fd_unit/forwardbE
+# add wave -noupdate -expand -group fd -color {Medium Sea Green} /tb_mipscomputer/dut/mips/dp/fd_unit/forwardaD
+# add wave -noupdate -expand -group fd -color {Medium Sea Green} /tb_mipscomputer/dut/mips/dp/fd_unit/forwardbD
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[19]}
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[18]}
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[17]}
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[16]}
+# add wave -noupdate -radix decimal {/tb_mipscomputer/dut/mips/dp/rf/rfile[8]}
+# TreeUpdate [SetDefaultTree]
+# WaveRestoreCursors {{Cursor 1} {65090 ps} 0}
+# quietly wave cursor active 1
+# configure wave -namecolwidth 116
+# configure wave -valuecolwidth 100
+# configure wave -justifyvalue left
+# configure wave -signalnamewidth 1
+# configure wave -snapdistance 10
+# configure wave -datasetprefix 0
+# configure wave -rowmargin 4
+# configure wave -childrowmargin 2
+# configure wave -gridoffset 0
+# configure wave -gridperiod 1
+# configure wave -griddelta 40
+# configure wave -timeline 0
+# configure wave -timelineunits ns
+# update
+# WaveRestoreZoom {0 ps} {163994 ps}
+restart
+run -all

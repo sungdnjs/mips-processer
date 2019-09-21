@@ -1,0 +1,22 @@
+`timescale 1ns/1ps
+// Hazard Detection Unit
+module hazard_detection_unit(
+							input  [4:0] rsD, rtD, rtE,
+							input  [4:0] writeregE, writeregM, 
+							input        regwriteE,
+							input        memtoregE, memtoregM, branchD,		  
+							output       stallF, stallD, flushE);
+				  
+
+  wire lwstallD, branchstallD;
+
+  // stalls
+  assign #1 lwstallD = ;
+  assign #1 branchstallD = ;
+
+  assign #1 stallD = ;
+  assign #1 stallF = ;
+  assign #1 flushE = ;
+
+  
+endmodule
