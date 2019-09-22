@@ -2,7 +2,7 @@
 베릴로그로 파이프라인이 있는 밉스 컴퓨터 설계
 
 
-adder.v : adder모듈
+adder.v : adder모듈 \
 aludec.v : 어떤 연산을 해야 하는지 각 연산에 맞게 컨트롤 비트를 정해줌
 controller.v : aludec 모듈과 maindec모듈을 가지고 있는 컨트롤 모듈.
 datapath.v : 컨트롤 모듈을 제외한 모든 모듈이 속해 있음.
