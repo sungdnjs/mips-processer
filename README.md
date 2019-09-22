@@ -20,5 +20,5 @@ mipscomputer.v : 가장 큰 모듈\
 mux2.v : 먹스\
 mux3.v\
 regfile.v : 레지스터파일\
-signext.v : 부호 확장. 데이터 크기에 따라 표기법이 달라지므로 필요.\
+signext.v : 부호 확장. 데이터 크기에 따라 표기법이 달라지므로 필요.
 
